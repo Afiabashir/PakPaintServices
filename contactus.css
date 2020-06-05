@@ -1,0 +1,40 @@
+.heading {
+    font-weight: bold;
+    font-family: cursive;
+    color: orange;
+    text-align: center;
+    margin: 10px;
+    text-shadow: 2px 2px 2px white;
+    margin-top: 5px;
+    padding: 15px;
+    }
+
+    .yellow1 {
+        width: 300px;
+        height: auto; 
+        padding: 20px;
+        margin: 10px;    
+        align-items: center;
+        justify-items: center;
+        text-align: center;
+    }
+
+    .wall {
+    font-weight: bold;
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    margin: 10px;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 5px;
+    padding: 15px;
+    }
+
+    .buttondiv {
+    background-color: black;
+    text-align: center;
+    padding-top: 5.5px; 
+    width: 98.5%;  
+    margin: 10px;
+    padding-bottom: 5.5px;
+    }

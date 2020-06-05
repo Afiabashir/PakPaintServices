@@ -1,0 +1,91 @@
+.yellow{
+    width: 100%;
+    height: 600px;
+    padding: 20px;
+}
+
+form{
+    padding: 10px;
+    width: 600px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+}
+
+input:focus{
+    border-color: grey;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    color: orange;
+    font-size: 1.2em;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input.email{
+    background-image: url('https://thumbs.dreamstime.com/b/email-icon-isolated-white-background-open-envelope-pictogram-line-mail-symbol-website-design-app-ui-vector-illustration-106510001.jpg');
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 35px;
+}
+
+input.password{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/glyphs/24/icons_password-512.png');
+    background-size: 35px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 35px;
+}
+
+fieldset{
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+legend{
+    background-color: black;
+    color: orange;
+    text-shadow: 2px 2px 2px red;
+    font-weight: bold;
+    /* padding: 10px; */
+    width: 300px;
+    border-radius: 15px;
+}
+
+label{
+display: inline-block;
+width: 100px;
+text-align: right;
+}
+
+.rl {
+    width: 98.5%;  
+    margin: 10px;
+}
+
+.buttondiv {
+    background-color: black;
+    text-align: center;
+    padding-top: 5.5px; 
+    width: 98.5%;  
+    margin: 10px;  
+    padding-bottom: 5.5px;
+}
+
+.heading {
+    font-weight: bold;
+    font-family: cursive;
+    color: orange;
+    text-align: center;
+    margin: 10px;
+    text-shadow: 2px 2px 2px white;
+    margin-top: 5px;
+    padding: 15px;
+    }

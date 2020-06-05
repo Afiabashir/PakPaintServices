@@ -1,0 +1,135 @@
+.logo {
+    width: 100px;
+    height: 70px;
+}
+
+.navbar {
+    height: 60px;
+    text-align: center;
+    padding-top: 5.5px; 
+    width: 98.5%;  
+    margin: 10px; 
+}
+
+.carouselslide {
+    width: 98%;
+    height: 200px;
+}
+
+.info {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: cursive;
+}
+
+
+.buttondiv {
+    background-color: black;
+    text-align: center;
+    padding-top: 5.5px; 
+    width: 98.5%;  
+    margin: 10px;  
+    padding-bottom: 5.5px;
+}
+
+.home {
+    width: 50px;
+    height: 20px;
+}
+
+.para {
+    color: black;
+    font-family: cursive;
+}
+
+h5 {
+    color: black;
+    font-family: cursive;
+}
+
+
+.newarrivals {
+    margin-top: 2px;
+}
+
+.card {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.card-text {
+    font-weight: bold;
+    font-family: cursive;
+    color: black;
+}
+
+.card-title {
+    color: black;
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: orange;
+}
+
+.card-img-top {
+    height: 200px;
+    width: 200px;
+}
+
+.heading {
+font-weight: bold;
+font-family: cursive;
+color: orange;
+text-align: center;
+margin: 10px;
+margin-top: 5px;
+padding: 15px;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px red;
+}
+
+.welcome {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.welcome1 {
+    justify-content: center;
+    align-items: center;
+}
+
+.longpara {
+    padding: 30px;
+    margin: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    text-align: justify;
+    word-spacing: 2px;
+    font-family: Calibri;
+}
+
+.wel {
+    color: white;
+    text-shadow: 2px 2px 4px orange;
+    font-family: cursive;
+}
+
+.container-fluid {
+    text-align: center;
+    align-items: center;
+    padding-top: 5.5px; 
+    width: 98.5%;  
+    padding: 10px;
+    margin: 10px;
+    padding-left: 90px;
+}
+
+

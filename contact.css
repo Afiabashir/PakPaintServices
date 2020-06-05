@@ -1,0 +1,35 @@
+.heading {
+    font-weight: bold;
+    font-family: cursive;
+    color: orange;
+    text-align: center;
+    margin: 10px;
+    text-shadow: 2px 2px 2px white;
+    margin-top: 5px;
+    padding: 15px;
+    }
+
+.footer {
+    width: 98.5%;
+    height: 500px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.buttondiv {
+    background-color: black;
+    text-align: center;
+    padding-top: 5.5px; 
+    width: 98.5%;  
+    margin: 10px;
+    padding-bottom: 5.5px;
+}
+
+.email {
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
